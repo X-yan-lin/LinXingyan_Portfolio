@@ -12,22 +12,18 @@ This repository contains a selection of my projects showcasing my skills in stat
 ### R: Malaria Incidence Prediction in Afghanistan
 - **Description**: Spatial analysis predicting malaria incidence based on environmental factors.
 - **Key Techniques**: Moran’s I statistic, spatial regression models.
-- **Folder**: [R-coding](/R-coding)
+- **Folder**: [R_Malaira incidence](/R_Malaira incidence)
 
 ### Python: Clustering Analysis of ESG Ratings
 - **Description**: Study of retail investors' decision-making influenced by ESG ratings.
 - **Key Techniques**: Discrete choice experiments, K-modes clustering.
-- **Folder**: [Python-coding](/Python-coding)
+- **Folder**: [Python_OSC](/Python_OSC)
 
 ### oTree: Behavioral Science Experiments
 - **Description**: Scripts for conducting Randomized Controlled Trials (RCT) and Discrete Choice Experiments (DCE) using the oTree platform.
 - **Key Techniques**: Experimental design, behavioral data analysis.
-- **Folder**: [oTree_Experiments](/oTree_Experiments)
+- **Folder**: [Python_oTree_ASCD](/Python_oTree_ASCD)
 
 ## Repository Structure
 Each project is contained within its own folder, complete with a README.md file that details the project's background, methodology, and findings. You can navigate to each folder to explore the projects in detail and view the code along with its documentation.
 
-## Usage
-To clone this repository and explore the projects locally, use the following command:
-```bash
-git clone https://github.com/yourusername/yourrepository.git
