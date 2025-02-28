@@ -7,7 +7,7 @@ This repository contains a selection of my projects showcasing my skills in stat
 ### Stata: Balancing Work and Childcare During COVID-19
 - **Description**: Analysis of the impact of COVID-19 school closures on parental labor supply in Uganda.
 - **Key Techniques**: Econometric modeling, Difference-in-Differences.
-- **Folder**: [Stata-coding](/Stata-coding)
+- **Folder**: [Stata_CEGA](/Stata_CEGA)
 
 ### R: Malaria Incidence Prediction in Afghanistan
 - **Description**: Spatial analysis predicting malaria incidence based on environmental factors.
