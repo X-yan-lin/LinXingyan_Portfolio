@@ -9,6 +9,6 @@ The dataset includes data from a national malaria indicator assessment conducted
 - **Spatial regression** using Generalized Linear Model and Generalized Additive Model with a binomial logit link to assess the relationship between Malaria prevalence and environmental variables.
 
 ## About the Files
-The file details the statistical methods applied to the geographical data to predict and understand Malaria trends in Afghanistan.
+- The file details the statistical methods applied to the geographical data to predict and understand Malaria trends in Afghanistan.
 
 
