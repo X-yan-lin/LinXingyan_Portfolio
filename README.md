@@ -12,7 +12,7 @@ This repository contains a selection of my projects showcasing my skills in stat
 ### R: Malaria Incidence Prediction in Afghanistan
 - **Description**: Spatial analysis predicting malaria incidence based on environmental factors.
 - **Key Techniques**: Moran’s I statistic, spatial regression models.
-- **Folder**: [R Geospatial_Modeling](/R_Geospatial_Modeling)
+- **Folder**: [R_Geospatial_Modeling](/R_Geospatial_Modeling)
 
 
 ### Python: Clustering Analysis of ESG Ratings
