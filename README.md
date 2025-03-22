@@ -1,4 +1,4 @@
-# Working-Sample
+# LinXingyan_Portfolio
 
 This repository contains a selection of my projects showcasing my skills in statistical analysis, data science, and behavioral economics. Each project folder includes scripts and documentation for studies and experiments I've conducted using Stata, R, Python, and oTree platforms.
 
